@@ -1,8 +1,7 @@
-# Data Dictionary 
-Hot Dog Survey SP25
+## Data Dictionary: Hot Dog Survey SP25
 
-| Column| Description| Potential Reponses|     
-|-------|------------|-------------------|
+| Column| Description| Potential Reponses|                   
+|-------|------------|-------------------| 
 | Timestamp | Records time of participant's survey completion | Date (M/D/Y) and Timestamp (Hour:Minute:Seconds) |
 | Hotdog Question | Participant's answer to our question ("Do you believe that a hotdog falls under the category of a sandwich?") | Yes/No |
 | Rationale | Asks the participant to explain their reasoning behind their answer to the hotdog question | Short sentence explaining why they chose their answer; no response |
