@@ -1,0 +1,13 @@
+# Data Dictionary 
+Hot Dog Survey SP25
+
+| Column| Description| Potential Reponses|                   
+| Timestamp | Records time of participant's survey completion | Date (M/D/Y) and Timestamp (Hour:Minute:Seconds) |
+| Hotdog Question | Participant's answer to our question ("Do you believe that a hotdog falls under the category of a sandwich?") | Yes/No |
+| Rationale | Asks the participant to explain their reasoning behind their answer to the hotdog question | Short sentence explaining why they chose their answer; no response |
+| Enrollment | Asks whether the participant is currently enrolled as a undergraduate/graduate student at UVA | Yes/No |
+| Major | Asks the participant what their field of study/major is | Name or abbreviation of major |
+| State/Country | Asks the participant what U.S. state or country they were born in | Name of a U.S. state or country |
+| Academic Year | Asks the participant what year of study they are at UVA currently | First/Second/Third/Fourth Year |
+| Gender Identity | Asks the participant what their gender identity is | Woman/Man/Non-binary/Prefer not to answer or self-describe |
+| Self-describe | For participants that choose to self-describe their gender, this question asks them to share it | preferred pronouns (she/her) or gender identity |
